@@ -6,13 +6,13 @@ In this repository, I implemented a simple stand-alone version of [XGBoost](http
 
 
 ## Experiments
-**Four UCI data sets were used for comparison experiments, two for regression, and others for classification. The data sets are as follows.**
+**Four UCI data sets** are used for comparison experiments, two for regression, and others for classification. The data sets are as follows.
 - [Magic](http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope)
 - [Banknote](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 - [CombinedCyclePowerPlant](http://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant)
 - [AirfoilSelfNoise](http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise)
 
-**Three ensemble methods(from sklearn) are used as comparison algorithms. The experimental results are as follows.**
+**Three ensemble methods(from sklearn)** are used as comparison algorithms. The experimental results are as follows.
 **Classification**
 
 ![accuracy](figures/acc.PNG)
