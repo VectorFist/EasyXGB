@@ -12,13 +12,11 @@ Four UCI data sets were used for comparison experiments, two for regression, and
 - [CombinedCyclePowerPlant](http://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant)
 - [AirfoilSelfNoise](http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise)
 
-Three ensemble methods(from sklearn) are used as comparison algorithms. The experimental results are as follows.
+Three ensemble methods(**from sklearn**) are used as comparison algorithms. The experimental results are as follows.
 **Classification**
-
 ![accuracy](figures/acc.PNG)
 
 **Regression**
-
 ![rmse](figures/rmse.PNG)
 
 ## Requirements
