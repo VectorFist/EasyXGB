@@ -13,3 +13,21 @@ Four UCI data sets were used for comparison experiments, two for regression, and
 - [AirfoilSelfNoise](http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise)
 
 Three ensemble methods(from sklearn) are used as comparison algorithms. The experimental results are as follows.
+
+## Requirements
+- g++ >= 4.7
+
+## Usage
+**Step 1.** 
+Clone this repository with ``git``.
+```
+$ git clone https://github.com/VectorFist/EasyXGB.git
+$ cd EasyXGB
+```
+
+**Step 2.** 
+Build and train.
+```
+$ make
+$ ./EasyXGB data_path
+```
