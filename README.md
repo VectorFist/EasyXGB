@@ -14,9 +14,11 @@ Four UCI data sets were used for comparison experiments, two for regression, and
 
 Three ensemble methods(from sklearn) are used as comparison algorithms. The experimental results are as follows.
 **Classification**
+
 ![accuracy](figures/acc.PNG)
 
 **Regression**
+
 ![rmse](figures/rmse.PNG)
 
 ## Requirements
