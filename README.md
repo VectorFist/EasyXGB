@@ -13,6 +13,10 @@ Four UCI data sets were used for comparison experiments, two for regression, and
 - [AirfoilSelfNoise](http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise)
 
 Three ensemble methods(from sklearn) are used as comparison algorithms. The experimental results are as follows.
+**Classification**
+![accuracy](figures/acc.png)
+**Regression**
+![rmse](figures/rmse.png)
 
 ## Requirements
 - g++ >= 4.7
