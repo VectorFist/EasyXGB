@@ -13,6 +13,7 @@ In this repository, I implemented a simple stand-alone version of [XGBoost](http
 - [AirfoilSelfNoise](http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise)
 
 **Three ensemble methods(from sklearn)** are used as comparison algorithms. The **10-folds cross-validation** experimental results are as follows.
+
 **Classification**
 
 ![accuracy](figures/acc.PNG)
