@@ -40,6 +40,7 @@ $ cd EasyXGB
 **Step 2.** 
 Build and train.
 ```
+$ Change necessary parameters in main.cpp
 $ make
-$ ./EasyXGB data_path
+$ ./EasyXGB
 ```
