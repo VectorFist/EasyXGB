@@ -26,8 +26,6 @@ In this repository, I implemented a simple stand-alone version of [XGBoost](http
 
 <img width="300" height="500" src="https://github.com/VectorFist/EasyXGB/tree/master/figures/tree.PNG" alt="tree"/>
 
-![tree](figures/tree.PNG)
-
 ## Requirements
 - g++ >= 4.7
 
