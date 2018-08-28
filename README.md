@@ -22,6 +22,10 @@ In this repository, I implemented a simple stand-alone version of [XGBoost](http
 
 ![rmse](figures/rmse.PNG)
 
+**The printed trees just like this.
+
+![tree](figures/tree.PNG)
+
 ## Requirements
 - g++ >= 4.7
 
