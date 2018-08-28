@@ -24,7 +24,7 @@ In this repository, I implemented a simple stand-alone version of [XGBoost](http
 
 **The printed trees just like this.**
 
-<img width="300" height="500" src="https://github.com/VectorFist/EasyXGB/tree/master/figures/tree.PNG" alt="tree"/>
+<img width="300" height="500" src="https://github.com/VectorFist/EasyXGB/tree/master/figures/tree.PNG"/>
 
 ## Requirements
 - g++ >= 4.7
